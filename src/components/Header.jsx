@@ -8,7 +8,7 @@ import { GiCupcake } from "react-icons/gi";
 function Header() {
   return (
     <section className="header">
-      <div className="header-wrapper">
+      <div className="header-container">
         <div className="header-item active ">
           <IoFastFoodSharp className="icon"/>
           <p>All</p>
