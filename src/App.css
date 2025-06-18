@@ -175,7 +175,7 @@ body {
   
   .listing-section {
     grid-template-columns: 1fr; 
-    gap: 1rem !important; 
+    gap: 1rem; 
   }
 
   
